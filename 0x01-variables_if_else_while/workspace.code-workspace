@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\alx-system_engineering-devops\\alx-system_engineering-devops"
+		},
+		{
+			"name": "alx-system_engineering-devops-2",
+			"path": "..\\..\\..\\alx-system_engineering-devops\\alx-system_engineering-devops-2"
+		},
+		{
+			"name": "alx-low_level_programming",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
